@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lovesandwitches-411010",
+  "private_key_id": "12facb6ad5b3f33381143f492d35d3b5479eac0c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCz1hBzErAjR9sr\nfex2KZLaerL7xVSoZcdEyOtcerOR/9IRJe0q264Q1mGfwWYEFpELznJ1BeaPTzYU\no6mOms2/Iw5t9Hs/e6om542/6T6pUa3K4oA9DEMg3p27rzYm5fBZ15+sa2YLAiMp\nmAYXMMkvHf39gjw3cA7PmWKR8lHvx9vSpb7i4SWhUDK3fIGzqwfAzP7wppM6U4L6\nKrPDCfmB1pt7c9mopJtZjguLI/csAXdyRgszF0/T3lFB8c2qR77+VQyuQdGzqORr\nHeGyrqhi5z7v5QCpUD0Oaizu8iPDDTLdmnmxhI6Pk8eG1FJYcyFZ0hs/IhdioJ8j\nH1Y4HrN3AgMBAAECgf8V25Y38CsV900/8ivBk1+yVcFXsTgFP7wWIC4sZ/iS0BjV\nwajM+Q3WdDganw5umCgwZLYOgykWfR3kZE7LN6MZBIJj2ub4nxkZF5WjAqyk58iQ\nc/c16njbytCIf1b4FJgYK/+BOlFxtlDK2vRYtdo0OHrXwXyQLLXu6A5X6eq8zZ6k\nJgaW3MLeRL/eWp4q+8W3l8j0GMceP/nJFt+7Tj1J6T/TfMRsXvWs5wbc0z6qvXGx\nNNojJ/pYuv1AXfvj2wRQTDDIOQqdpJCLrsY+dHn5elQ95C0eUL7tbFJc87pTpgfW\nKRzkg9oVUHoLQ00Li8lVBW4zZnx6gSJoej/mLwECgYEA1wft42wL7Xl3wZ15Ds1V\nw2zRO0D61LGcs6Ae2afMy1EMK/CC+QzG9+iXbyFOPioPPjKaOoukHctW4Drqjktb\nY8109TF3hlV1+21F+tp8E1NOykxIRGBHYnj26mRwTzONyu5j6t6iOCxEFWxPwDDk\nqYKPGsSrCyusKo71VIwzUQECgYEA1hmFHn3EGINeRtYTsvUBRORwg2Iqod49ylBV\niU35YkKJ4qxvUV0F1vTJmFWI5L24WcRJWqQ3tLNGVumD4xHETSQpeJyDmPU06BLo\nklNN4ZYkWxlp1JIzbK4CI7TfYZ0sFwxVqy6MeBIzWvtvEBhcRjaCqTaOgfpGbvgv\n/Kx4DHcCgYAFkj0FoW0FsBn8ODpEuek48P7SzDIzhI6M0N87wG877VOlZ8vc7AnT\nroEN7gz661gNwn3genG8G+KaWKxvF2C8yzv2hluUbW5rHz+q6jJAxe3KrANLUjtH\nP98V35hRVQKdeWO5WB9X2T3CWFYQorOp+KoAhYvw9Ca3y5Brql5CAQKBgCWoMXDO\ngBorqP5ekvJsA4AhieSh9Iup8kZOYO0YiN+OgoAbAi1WZjuLrJWdnclV0UIAs0I9\nFgszaRDKW8cpjdRfouey57aUkmyrPrrV6iHebaCUVLftyxu3c2riWlPp+CJJqhvE\nwTIxSVUcWkmDb19uIQcwMFqOMas8/fu8PhU7AoGALdbPc/b79wZYMhU5AI0kXLwx\ndBiD0SMuvlGHB2uid1G7ZTj/yEjzNco8CbdIF4fzTGhH/AjZR8UOAXymR4w/QGgx\n1dsZqMI6AI/A/iYGye5DTNCFPiGMqPGZg65tMV1bsHyjmxiyv84D3gGyDM9vQgjv\nnSHvILx97KoPd6bFplI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "beth-229@lovesandwitches-411010.iam.gserviceaccount.com",
+  "client_id": "106489804763689456341",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/beth-229%40lovesandwitches-411010.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
